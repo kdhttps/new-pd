@@ -1,6 +1,6 @@
 {
     "policy_store_id": "246ab002d17d0e4330c47a45729544465d59ca6633fc",
-    "generated_date": "2026-01-01T10:20:51.732464+00:00",
+    "generated_date": "2026-01-05T13:43:20.490463+00:00",
     "files": {
         "entities/admin_entity.json": {
             "size": 540,
@@ -11,20 +11,20 @@
             "checksum": "sha1:8497a119cb52dcf9a16308ad531c8d73802d6e01"
         },
         "manifest.json": {
-            "size": 1003,
-            "checksum": "sha1:2ca9ba3f02e295faf71c3c363dc8870fbef707d6"
+            "size": 1154,
+            "checksum": "sha1:de6b0fc8de948ef28a3ba3becb0ff5f8e8baf623"
         },
         "metadata.json": {
             "size": 341,
-            "checksum": "sha1:ebf90934e995a40b284c30910c0dbb27bb7fea4f"
+            "checksum": "sha1:944292ff82702abae0af54567bc4790a378385f1"
         },
         "policies/admin001.cedar": {
             "size": 61,
             "checksum": "sha1:b381230480c1167480efd512cccc78f1e1b8937c"
         },
         "schema.cedarschema": {
-            "size": 4249,
-            "checksum": "sha1:de9b13535251cf9504555bde8a4c881f0c63ce52"
+            "size": 3409,
+            "checksum": "sha1:c5423e4768b327b7932955b857b9d6f185c75c70"
         },
         "trusted-issuers/jans.json": {
             "size": 1567,
