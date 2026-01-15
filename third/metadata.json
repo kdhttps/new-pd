@@ -1,0 +1,11 @@
+{
+    "cedar_version": "4.4.0",
+    "policy_store": {
+        "id": "1b0ae4c93f465f28c6d87e34bc6437c5761b06a9d67c",
+        "name": "third",
+        "description": "tird",
+        "version": "0.0.0",
+        "created_date": "2026-01-15T14:11:30.919888+00:00",
+        "updated_date": "2026-01-15T14:11:30.919938+00:00"
+    }
+}
