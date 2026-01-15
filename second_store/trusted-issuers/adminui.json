@@ -1,5 +1,5 @@
 {
-    "name": "adminui",
+    "name": "admingui",
     "token_metadata": {
         "access_token": {
             "trusted": true,
@@ -50,7 +50,7 @@
             "token_id": "jti"
         }
     },
-    "description": "adminui trusted issuer",
+    "description": "admingui trusted issuer",
     "configuration_endpoint": "https://admin-ui.jans.io",
     "id": "a30b5914e268040938138a02aefe45876893ce806478"
 }
