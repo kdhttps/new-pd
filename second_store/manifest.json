@@ -1,6 +1,6 @@
 {
     "policy_store_id": "246ab002d17d0e4330c47a45729544465d59ca6633fc",
-    "generated_date": "2026-01-15T11:49:54.823548+00:00",
+    "generated_date": "2026-01-15T11:52:11.293765+00:00",
     "files": {
         "entities/admin_entity.json": {
             "size": 540,
@@ -23,12 +23,12 @@
             "checksum": "sha1:1eb46eedd3f33912e283f82e0851fba9f66fcfed"
         },
         "manifest.json": {
-            "size": 1742,
-            "checksum": "sha1:59fe208bcf7c39f6700662ccaa68a4caac49e010"
+            "size": 1893,
+            "checksum": "sha1:bc6b94c7aaff3aff2dee9f9423476e9d90b11f31"
         },
         "metadata.json": {
             "size": 341,
-            "checksum": "sha1:01aab18195a8fca6da70613043a6882f1876be51"
+            "checksum": "sha1:4cb0d1975dfb10be909c528f2f7ad37553565e86"
         },
         "policies/admin001.cedar": {
             "size": 61,
@@ -39,8 +39,8 @@
             "checksum": "sha1:da382176403ee9d246434c41d4775285bbe064e9"
         },
         "schema.cedarschema": {
-            "size": 11133,
-            "checksum": "sha1:98158e9a92ca627f41393ba21fb13733b8d224cb"
+            "size": 11134,
+            "checksum": "sha1:6a18a46f1491491ed64b412d7b1b98e263ea2144"
         },
         "trusted-issuers/adminui.json": {
             "size": 1597,
