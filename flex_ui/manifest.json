@@ -1,18 +1,18 @@
 {
     "policy_store_id": "d9993a9574c3590141778a07581b693d8fa4579f641a",
-    "generated_date": "2026-01-16T14:01:50.876450+00:00",
+    "generated_date": "2026-01-16T14:08:18.186061+00:00",
     "files": {
         "manifest.json": {
-            "size": 563,
-            "checksum": "sha1:0f2aa2d2123c5a86ecfb0a75de777f793d512456"
+            "size": 711,
+            "checksum": "sha1:0d5ff5fe809cfea455c462c0883de92e3eb624b4"
         },
         "metadata.json": {
             "size": 324,
-            "checksum": "sha1:f9422355957fdbd4fa7ca5abcc4de48204c0d719"
+            "checksum": "sha1:2c902b9ef6737da09bf00c6f121cc336773a3e5c"
         },
         "schema.cedarschema": {
-            "size": 3409,
-            "checksum": "sha1:c5423e4768b327b7932955b857b9d6f185c75c70"
+            "size": 0,
+            "checksum": "sha1:e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
         },
         "trusted-issuers/Jans.json": {
             "size": 1567,
