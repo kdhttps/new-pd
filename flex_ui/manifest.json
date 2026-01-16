@@ -1,10 +1,10 @@
 {
     "policy_store_id": "d9993a9574c3590141778a07581b693d8fa4579f641a",
-    "generated_date": "2026-01-16T14:48:31.844697+00:00",
+    "generated_date": "2026-01-16T14:49:28.339154+00:00",
     "files": {
         "manifest.json": {
-            "size": 711,
-            "checksum": "sha1:2f99da02323bc6992fa78f9a17f883b2361f7938"
+            "size": 863,
+            "checksum": "sha1:91626ea3cb9cb0b6b845105729b72d5049523d9f"
         },
         "metadata.json": {
             "size": 324,
