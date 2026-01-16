@@ -87,6 +87,11 @@ action "Execute" appliesTo {
   resource: [Application],
   context: Context
 };
+action "Featch" appliesTo {
+  principal: [User],
+  resource: [HTTP_Request],
+  context: {}
+};
 action "GET" appliesTo {
   principal: [Workload],
   resource: [HTTP_Request],
