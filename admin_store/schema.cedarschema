@@ -207,6 +207,7 @@ entity id_token = {"acr"?: __cedar::String,
 "validated_at"?: __cedar::Long} tags Set < __cedar::String >;
 }
 namespace test {
+type test = __cedar::String;
 entity Access_token = {"acr"?: __cedar::String, 
 "amr"?: Set < __cedar::String >, 
 "aud"?: __cedar::String, 
