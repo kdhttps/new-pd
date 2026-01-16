@@ -14,7 +14,6 @@ type Url = {"host": String,
 "protocol": String};
 type email_address = {"domain": String, 
 "uid": String};
-type test = __cedar::String;
 entity Access_token = {"aud"?: String, 
 "exp"?: Long, 
 "iat"?: Long, 
