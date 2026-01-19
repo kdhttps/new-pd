@@ -1,0 +1,11 @@
+{
+    "cedar_version": "4.4.0",
+    "policy_store": {
+        "id": "a50b1a2a49606f756d39ce39e2cf78edb1db0b62f6da",
+        "name": "admin_ui",
+        "description": "admin ui store",
+        "version": "0.0.1",
+        "created_date": "2026-01-19T12:24:48.363729+00:00",
+        "updated_date": "2026-01-19T12:25:49.781789+00:00"
+    }
+}
