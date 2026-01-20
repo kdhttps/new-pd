@@ -1,0 +1,15 @@
+[
+    {
+        "attrs": {},
+        "uid": {
+            "id": "Admin",
+            "entity_type": "Jans::User"
+        },
+        "parents": [
+            {
+                "id": "role",
+                "entity_type": "Jans::User"
+            }
+        ]
+    }
+]
