@@ -1,15 +1,15 @@
 [
     {
         "attrs": {},
-        "uid": {
-            "id": "test",
-            "entity_type": "Jans::Test"
-        },
         "parents": [
             {
-                "id": "test",
-                "entity_type": "Jans::Test"
+                "entity_type": "Jans::role",
+                "id": "role"
             }
-        ]
+        ],
+        "uid": {
+            "entity_type": "Jans::role",
+            "id": "role"
+        }
     }
 ]
