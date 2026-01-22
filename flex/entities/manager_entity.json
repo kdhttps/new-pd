@@ -3,13 +3,13 @@
         "tags": {},
         "parents": [
             {
-                "type": "Jans::User",
-                "id": "role"
+                "entity_type": "Jans::User",
+                "id": "manager"
             }
         ],
         "attrs": {},
         "uid": {
-            "type": "Jans::User",
+            "entity_type": "Jans::User",
             "id": "manager"
         }
     }
