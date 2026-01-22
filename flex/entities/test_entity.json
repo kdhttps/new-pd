@@ -1,0 +1,16 @@
+[
+    {
+        "tags": {},
+        "parents": [
+            {
+                "type": "Jans::User",
+                "id": "role"
+            }
+        ],
+        "attrs": {},
+        "uid": {
+            "type": "Jans::User",
+            "id": "Admin"
+        }
+    }
+]
