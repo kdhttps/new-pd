@@ -1,18 +1,14 @@
 {
     "policy_store_id": "64ab6fd12a59ba88e5bd72236f43d992238d5592d6f5",
-    "generated_date": "2026-01-22T10:04:57.206198+00:00",
+    "generated_date": "2026-01-22T11:56:39.473079+00:00",
     "files": {
-        "entities/manager.json": {
-            "size": 294,
-            "checksum": "sha1:1c850657cac96615450183be51a11462e179cae9"
-        },
         "entities/test_entity.json": {
             "size": 270,
             "checksum": "sha1:ea007d00e4afb74314e95cfdfe8ed00fafdc6175"
         },
         "manifest.json": {
             "size": 1301,
-            "checksum": "sha1:0246e54b025a3a726dbecf2445d0ee9fc47c8223"
+            "checksum": "sha1:65be76348911453a644075d84fb630bba355d966"
         },
         "metadata.json": {
             "size": 325,
