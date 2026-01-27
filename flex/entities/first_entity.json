@@ -2,12 +2,12 @@
     {
         "parents": [
             {
-                "type": "Jans::User",
+                "entity_type": "Jans::User",
                 "id": "role"
             }
         ],
         "uid": {
-            "type": "Jans::User",
+            "entity_type": "Jans::User",
             "id": "Admin"
         },
         "tags": {},
