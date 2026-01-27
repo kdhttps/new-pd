@@ -2,12 +2,12 @@
     {
         "attrs": {},
         "uid": {
-            "id": "Admin",
+            "id": "Third",
             "type": "Jans::User"
         },
         "parents": [
             {
-                "id": "Admin",
+                "id": "Third",
                 "type": "Jans::User"
             }
         ],
