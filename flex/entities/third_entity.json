@@ -7,7 +7,7 @@
         },
         "parents": [
             {
-                "id": "role",
+                "id": "Admin",
                 "type": "Jans::User"
             }
         ],
