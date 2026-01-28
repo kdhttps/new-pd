@@ -29,6 +29,7 @@ entity Application = {"app_id": String,
 entity HTTP_Request = {"header": {"Accept"?: String}, 
 "url": Url};
 entity Role;
+entity Task;
 entity TrustedIssuer = {"issuer_entity_id": Url};
 entity User in [Role] = {"email"?: email_address, 
 "id_token"?: id_token, 
@@ -72,24 +73,24 @@ entity id_token = {"acr"?: String,
 "sub"?: String, 
 "token_type"?: String, 
 "validated_at"?: Long} tags Set < String >;
-action "Compare" appliesTo {
-  principal: [User, Workload],
-  resource: [Application],
-  context: Context
+action "Add" appliesTo {
+  principal: [User],
+  resource: [Task],
+  context: {}
 };
-action "DELETE" appliesTo {
-  principal: [Workload],
-  resource: [HTTP_Request],
-  context: Context
+action "Delete" appliesTo {
+  principal: [User],
+  resource: [Task],
+  context: {}
 };
-action "Execute" appliesTo {
-  principal: [User, Workload],
-  resource: [Application],
-  context: Context
+action "Update" appliesTo {
+  principal: [User],
+  resource: [Task],
+  context: {}
 };
-action "Share" appliesTo {
-  principal: [User, Workload],
-  resource: [Application],
-  context: Context
+action "View" appliesTo {
+  principal: [User],
+  resource: [Task],
+  context: {}
 };
 }
