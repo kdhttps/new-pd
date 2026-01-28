@@ -1,10 +1,10 @@
 {
     "policy_store_id": "65c38cb629a964b423ee80dcdce7a76e0b37af9579bc",
-    "generated_date": "2026-01-28T13:43:17.514074+00:00",
+    "generated_date": "2026-01-28T13:44:17.917605+00:00",
     "files": {
         "manifest.json": {
-            "size": 734,
-            "checksum": "sha1:08ebd7a8670204596473c506fe760403150a5245"
+            "size": 898,
+            "checksum": "sha1:110e7ec3798ba84e2c8c2d3483f9f49efbfba046"
         },
         "metadata.json": {
             "size": 359,
@@ -17,6 +17,10 @@
         "policies/ManagerCanAddUpdateViewTask.cedar": {
             "size": 194,
             "checksum": "sha1:b6b94d5035445d0ee4d35d456f76eb8d466e533d"
+        },
+        "policies/MemberCanOnlyViewTask.cedar": {
+            "size": 138,
+            "checksum": "sha1:ac6edf2876f36fddf155083e7fecc75e2460efc8"
         },
         "schema.cedarschema": {
             "size": 2294,
