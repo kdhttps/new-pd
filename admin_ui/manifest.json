@@ -1,26 +1,30 @@
 {
-    "policy_store_id": "64fcde03554f371108e77763a7bf828b2ad252eba221",
-    "generated_date": "2026-01-30T12:06:46.422301+00:00",
+    "policy_store_id": "4da73a5951d6d104a5f2d339133e15bb62e7abd8fb7a",
+    "generated_date": "2026-01-19T12:08:46.739945+00:00",
     "files": {
         "entities/test_entity.json": {
-            "size": 270,
-            "checksum": "sha1:cef61b8a49a7d0a8f74db141b780181c4222ce48"
+            "size": 263,
+            "checksum": "sha1:f73ab8891aa1ee57d2764df30c3030ceb725da5d"
         },
         "manifest.json": {
-            "size": 858,
-            "checksum": "sha1:6a1a57a5342642af54e175dffb0c410e3b510572"
+            "size": 859,
+            "checksum": "sha1:05363f11985d62c49e60b4aedb60e10c36129c29"
         },
         "metadata.json": {
             "size": 339,
-            "checksum": "sha1:355584f15a1f625f6c928fc58138895b33409d02"
+            "checksum": "sha1:26150a7dfe23973c99fde59690fd5374c0fb28a3"
+        },
+        "policies/admin001.cedar": {
+            "size": 61,
+            "checksum": "sha1:b381230480c1167480efd512cccc78f1e1b8937c"
         },
         "schema.cedarschema": {
-            "size": 5882,
-            "checksum": "sha1:dcbde8d57ac00c06fff304c791d262a86846d6c9"
+            "size": 5926,
+            "checksum": "sha1:b42c3ea4d1e9c2212275596c29dc58e8b5c39104"
         },
-        "trusted-issuers/jans.json": {
-            "size": 1567,
-            "checksum": "sha1:6acd982d7ac68b6fee295e425b77d0c25dbeb0e8"
+        "trusted-issuers/admin_ui.json": {
+            "size": 1597,
+            "checksum": "sha1:a036eeaf070f4a5c80082941175f5d71a8f79761"
         }
     }
 }
