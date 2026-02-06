@@ -1,0 +1,34 @@
+{
+    "policy_store_id": "65c38cb629a964b423ee80dcdce7a76e0b37af9579bc",
+    "generated_date": "2026-01-28T13:49:16.174122+00:00",
+    "files": {
+        "manifest.json": {
+            "size": 1056,
+            "checksum": "sha1:32105a553d43acb0a6d19b12a8dada2b1713455a"
+        },
+        "metadata.json": {
+            "size": 359,
+            "checksum": "sha1:d2180e622caaa2d215c2494aa9568e47dc428e19"
+        },
+        "policies/AdminPerformAnyOperationOnResource.cedar": {
+            "size": 109,
+            "checksum": "sha1:64769fd63771d4402d6f84e918477d1a2c9dd02d"
+        },
+        "policies/ManagerCanAddUpdateViewTask.cedar": {
+            "size": 194,
+            "checksum": "sha1:b6b94d5035445d0ee4d35d456f76eb8d466e533d"
+        },
+        "policies/MemberCanOnlyViewTask.cedar": {
+            "size": 138,
+            "checksum": "sha1:ac6edf2876f36fddf155083e7fecc75e2460efc8"
+        },
+        "schema.cedarschema": {
+            "size": 2294,
+            "checksum": "sha1:cbe423c397bf29dd438cf03153f438c7aac8c51e"
+        },
+        "trusted-issuers/Jans.json": {
+            "size": 909,
+            "checksum": "sha1:4d814fde630693feedce6a7cd4a0ec86889c96b2"
+        }
+    }
+}

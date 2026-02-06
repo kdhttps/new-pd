@@ -51,6 +51,6 @@
     },
     "name": "admin_ui",
     "configuration_endpoint": "https://admin-ui.jans.io",
-    "description": "admin ui multi issuer feature",
-    "id": "5f0c891dd930d8bf13da1c530ffd2f92310ec720014d"
+    "description": "admin ui multi issuer",
+    "id": "ee7c1dc86eb985bd65f166e8dbe6cc4a98249aa8256a"
 }

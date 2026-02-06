@@ -1,0 +1,11 @@
+{
+    "cedar_version": "4.4.0",
+    "policy_store": {
+        "id": "65c38cb629a964b423ee80dcdce7a76e0b37af9579bc",
+        "name": "JanssenReactCedarlingRBAC",
+        "description": "Cedarling Testing",
+        "version": "0.0.2",
+        "created_date": "2026-01-28T13:34:05.269847+00:00",
+        "updated_date": "2026-01-28T13:39:44.850849+00:00"
+    }
+}
