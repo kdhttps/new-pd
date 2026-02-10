@@ -1,4 +1,4 @@
-namespace Jans {
+namespace Gluu::AdminUI {
 type Context = {"current_time"?: Long, 
 "device_health"?: Set < String >, 
 "fraud_indicators"?: Set < String >, 
@@ -187,7 +187,7 @@ entity TX_token = {"acr"?: __cedar::String,
 "sub"?: __cedar::String, 
 "token_type"?: __cedar::String, 
 "validated_at"?: __cedar::Long} tags Set < __cedar::String >;
-entity TrustedIssuer = {"issuer_entity_id": Jans::Url};
+entity TrustedIssuer = {"issuer_entity_id": Gluu::AdminUI::Url};
 entity Userinfo_token = {"acr"?: __cedar::String, 
 "amr"?: Set < __cedar::String >, 
 "aud"?: __cedar::String, 
