@@ -4,7 +4,7 @@
     "token_metadata": {
         "access_token": {
             "trusted": true,
-            "entity_type_name": "Jans::Access_token",
+            "entity_type_name": "flex::ui::Access_token",
             "user_id": "sub",
             "token_id": "jti",
             "workload_id": "rp_id",
