@@ -132,16 +132,6 @@ action "Share" appliesTo {
   resource: [Application],
   context: Context
 };
-action "Tag" appliesTo {
-  principal: [User, Workload],
-  resource: [Application],
-  context: Context
-};
-action "Write" appliesTo {
-  principal: [User, Workload],
-  resource: [Application],
-  context: Context
-};
 }
 namespace test {
 type Context = {"current_time"?: Long, 
