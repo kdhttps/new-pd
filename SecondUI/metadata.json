@@ -1,0 +1,11 @@
+{
+    "cedar_version": "4.9.0",
+    "policy_store": {
+        "id": "6372c8f8da57e5f6507608cf18c7106a6c5474add83f",
+        "name": "SecondUI",
+        "description": "",
+        "version": "0.0.0",
+        "created_date": "2026-03-13T16:04:33.261186+00:00",
+        "updated_date": "2026-03-13T16:04:33.261237+00:00"
+    }
+}
