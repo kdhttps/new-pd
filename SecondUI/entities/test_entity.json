@@ -4,13 +4,13 @@
         "tags": {},
         "parents": [
             {
-                "id": "user",
-                "type": "Jans::User"
+                "id": "admin",
+                "type": "Jans::admin"
             }
         ],
         "uid": {
-            "id": "user",
-            "type": "Jans::User"
+            "id": "admin",
+            "type": "Jans::admin"
         }
     }
 ]
