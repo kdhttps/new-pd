@@ -26,6 +26,10 @@ namespace Jans {
     uid: String
   };
 
+  type test = {
+    testaa: __cedar::String
+  };
+
   entity Access_token = {
     aud?: String,
     exp?: Long,
