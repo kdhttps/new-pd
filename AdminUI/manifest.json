@@ -1,14 +1,18 @@
 {
     "policy_store_id": "84904ba62a6d3adf722432c59531be40c10f40f11fc4",
-    "generated_date": "2026-03-03T15:02:17.655221+00:00",
+    "generated_date": "2026-03-16T12:32:42.364119+00:00",
     "files": {
         "manifest.json": {
             "size": 716,
-            "checksum": "sha1:0ddb4017ea30746c9ba47ebef7ca914046e17eef"
+            "checksum": "sha1:639744937be821cedc71cd2b144b502735a28978"
         },
         "metadata.json": {
             "size": 332,
-            "checksum": "sha1:754914af4e4e85bf4c361c3a0a595d1ac6087f84"
+            "checksum": "sha1:665065e340931ba4b318362a4c32ca160d673fa2"
+        },
+        "policies/admin001.cedar": {
+            "size": 62,
+            "checksum": "sha1:2fa6ce7825a8885f443242cfee6adaea728c84bd"
         },
         "schema.cedarschema": {
             "size": 5935,
