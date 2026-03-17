@@ -1,4 +1,7 @@
 {
+    "name": "FlexUI",
+    "configuration_endpoint": "https://flex.ui",
+    "description": "flex ui",
     "token_metadata": {
         "access_token": {
             "trusted": true,
@@ -49,8 +52,5 @@
             "token_id": "jti"
         }
     },
-    "description": "jans",
-    "configuration_endpoint": "https://jans.io",
-    "name": "jans",
-    "id": "b47aebb90af65d7ac58cfff5fd0c8c3a2f218b127f0a"
+    "id": "ee40e374cdf98ea213ccf07198b29a24307010efbca7"
 }

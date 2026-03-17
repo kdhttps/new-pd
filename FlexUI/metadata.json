@@ -1,0 +1,11 @@
+{
+    "cedar_version": "4.9.0",
+    "policy_store": {
+        "id": "fafb6311990fd213507b4926835599bd95926afb5f05",
+        "name": "FlexUI",
+        "description": "flex ui store",
+        "version": "0.0.1",
+        "created_date": "2026-03-09T10:34:26.123235+00:00",
+        "updated_date": "2026-03-16T14:29:35.413942+00:00"
+    }
+}

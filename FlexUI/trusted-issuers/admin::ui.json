@@ -49,8 +49,8 @@
             "token_id": "jti"
         }
     },
-    "name": "admin_ui",
-    "configuration_endpoint": "https://admin-ui.jans.io",
-    "description": "admin ui multi issuer",
-    "id": "ee7c1dc86eb985bd65f166e8dbe6cc4a98249aa8256a"
+    "name": "admin::ui",
+    "configuration_endpoint": "https://admin.io",
+    "description": "Admin UI new trusted issuer",
+    "id": "c768e24d0e1d294726679aea80f4532fc7a881ad24eb"
 }
