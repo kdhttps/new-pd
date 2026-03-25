@@ -57,6 +57,8 @@ namespace Jans {
 
   entity Server;
 
+  entity Storage;
+
   entity TrustedIssuer = {
     issuer_entity_id: Url
   };
@@ -117,19 +119,19 @@ namespace Jans {
 
   action "Add" appliesTo {
     principal: [User],
-    resource: [Server, Domain],
+    resource: [Server, Domain, Storage],
     context: {}
   };
 
   action "Delete" appliesTo {
     principal: [User],
-    resource: [Domain, Server],
+    resource: [Domain, Server, Storage],
     context: {}
   };
 
   action "Update" appliesTo {
     principal: [User],
-    resource: [Server, Domain],
+    resource: [Server, Domain, Storage],
     context: {}
   };
 }
