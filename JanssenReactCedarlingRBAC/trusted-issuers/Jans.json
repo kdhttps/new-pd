@@ -1,7 +1,7 @@
 {
     "name": "Jans",
     "description": "jans",
-    "configuration_endpoint": "https://jans.io",
+    "configuration_endpoint": "https://jans-ui.jans.io/.well-known/openid-configuration",
     "token_metadata": {
         "access_token": {
             "trusted": true,

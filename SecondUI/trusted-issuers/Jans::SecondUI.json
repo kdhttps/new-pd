@@ -1,7 +1,6 @@
 {
-    "name": "FlexUI",
-    "configuration_endpoint": "https://flex.ui",
-    "description": "flex ui",
+    "configuration_endpoint": "https://secondui.jans.io",
+    "description": "Jans SecondUI New Trusted issuer",
     "token_metadata": {
         "access_token": {
             "trusted": true,
@@ -52,5 +51,6 @@
             "token_id": "jti"
         }
     },
-    "id": "ee40e374cdf98ea213ccf07198b29a24307010efbca7"
+    "name": "Jans::SecondUI",
+    "id": "d5c1ad548173ce3bf00aee5f0d612f6eeb31e0b29ab4"
 }

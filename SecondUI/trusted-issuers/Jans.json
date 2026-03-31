@@ -1,6 +1,6 @@
 {
-    "name": "Flex::UI",
     "configuration_endpoint": "https://jans.io",
+    "description": "Trusted Issuer",
     "token_metadata": {
         "access_token": {
             "trusted": true,
@@ -51,6 +51,6 @@
             "token_id": "jti"
         }
     },
-    "description": "ui",
-    "id": "8dd716b59524489a6c60c2d77629609a4cee2cfd29cb"
+    "name": "Jans",
+    "id": "05715086f6d3bebfb4c14256b33c743f038bd1f2f878"
 }
