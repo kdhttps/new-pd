@@ -1,0 +1,11 @@
+{
+    "cedar_version": "4.9.0",
+    "policy_store": {
+        "id": "72265696f1f05d62f5ed81f4eccc40b714fcb7019380",
+        "name": "JansNodeJSCedarling",
+        "description": "Node JS Cedarling Demo",
+        "version": "0.0.0",
+        "created_date": "2026-04-06T08:53:17.833494+00:00",
+        "updated_date": "2026-04-06T08:53:17.833527+00:00"
+    }
+}
