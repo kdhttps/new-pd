@@ -105,6 +105,7 @@ namespace Jans {
     iat?: Long,
     iss?: TrustedIssuer,
     jti?: String,
+    limit: Long,
     name?: String,
     phone_number?: String,
     role?: Set<String>,
