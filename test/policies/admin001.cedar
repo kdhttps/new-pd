@@ -1,4 +1,4 @@
-@id("admin001")
+@id("admin002")
 permit (
   principal,
   action,
