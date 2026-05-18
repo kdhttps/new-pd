@@ -1,0 +1,11 @@
+{
+    "cedar_version": "4.9.0",
+    "policy_store": {
+        "id": "59fcd43d8c84a3f17640801ca006003ef43cc3bfb7a8",
+        "name": "CloudAI",
+        "description": "cloud AI refactor code test",
+        "version": "0.0.0",
+        "created_date": "2026-05-11T07:59:14.391051+00:00",
+        "updated_date": "2026-05-11T09:11:48.658866+00:00"
+    }
+}
