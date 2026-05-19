@@ -1,0 +1,11 @@
+{
+    "cedar_version": "4.9.0",
+    "policy_store": {
+        "id": "68f4fc608297a346f9bb46ee3f0ef2fc34a85b3aa541",
+        "name": "CloudAI",
+        "description": "",
+        "version": "0.0.0",
+        "created_date": "2026-05-19T09:18:06.283582+00:00",
+        "updated_date": "2026-05-19T09:18:06.283613+00:00"
+    }
+}
