@@ -3,9 +3,9 @@
     "policy_store": {
         "id": "b327cab279806130e6296b4df5584f1303da6396b58d",
         "name": "AssignUI",
-        "description": "",
+        "description": "assign",
         "version": "0.0.0",
         "created_date": "2026-06-11T04:04:29.048575+00:00",
-        "updated_date": "2026-06-11T04:04:29.048607+00:00"
+        "updated_date": "2026-06-11T04:05:03.894395+00:00"
     }
 }
