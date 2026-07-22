@@ -126,6 +126,12 @@ namespace Jans {
     context: {}
   };
 
+  action "Query" appliesTo {
+    principal: [User],
+    resource: [VirtualMachine],
+    context: {}
+  };
+
   action "Update" appliesTo {
     principal: [User],
     resource: [VirtualMachine],
