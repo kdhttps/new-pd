@@ -126,7 +126,7 @@ namespace Jans {
     context: {}
   };
 
-  action "Query" appliesTo {
+  action "Find" appliesTo {
     principal: [User],
     resource: [VirtualMachine],
     context: {}
