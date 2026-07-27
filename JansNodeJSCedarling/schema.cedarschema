@@ -26,6 +26,8 @@ namespace Jans {
     uid: String
   };
 
+  type test = __cedar::String;
+
   entity Access_token = {
     aud?: String,
     exp?: Long,
@@ -52,6 +54,10 @@ namespace Jans {
   };
 
   entity Role;
+
+  entity Test = {
+    TestAttFirst: __cedar::String
+  };
 
   entity TrustedIssuer = {
     issuer_entity_id: Url
