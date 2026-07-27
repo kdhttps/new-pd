@@ -2,13 +2,13 @@
     {
         "uid": {
             "type": "Jans::User",
-            "id": "Admin"
+            "id": "AdminEdit"
         },
         "attrs": {},
         "parents": [
             {
                 "type": "Jans::User",
-                "id": "Admin"
+                "id": "AdminEdit"
             }
         ],
         "tags": {}
