@@ -1,6 +1,0 @@
-@id("admin")
-permit (
-  principal in Jans::Role::"admin",
-  action,
-  resource
-);
