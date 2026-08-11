@@ -1,6 +1,6 @@
-@id("admin001")
+@id("admin002")
 permit (
-  principal,
+  principal in Jans::Role::"admin002",
   action,
   resource
 );
